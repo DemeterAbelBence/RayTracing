@@ -1,0 +1,29 @@
+﻿  Skeleton.cpp
+C:\Users\demet\OneDrive\Asztali gép\BME\grafika\hazi2\Programs\Skeleton\Skeleton\framework.h(167,17): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\demet\OneDrive\Asztali gép\BME\grafika\hazi2\Programs\Skeleton\Skeleton\Skeleton.cpp(39,10): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\demet\OneDrive\Asztali gép\BME\grafika\hazi2\Programs\Skeleton\Skeleton\Skeleton.cpp(79,56): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\demet\OneDrive\Asztali gép\BME\grafika\hazi2\Programs\Skeleton\Skeleton\Skeleton.cpp(79,28): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\demet\OneDrive\Asztali gép\BME\grafika\hazi2\Programs\Skeleton\Skeleton\Skeleton.cpp(318,1): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\demet\OneDrive\Asztali gép\BME\grafika\hazi2\Programs\Skeleton\Skeleton\Skeleton.cpp(321,1): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\demet\OneDrive\Asztali gép\BME\grafika\hazi2\Programs\Skeleton\Skeleton\Skeleton.cpp(322,1): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\demet\OneDrive\Asztali gép\BME\grafika\hazi2\Programs\Skeleton\Skeleton\Skeleton.cpp(323,1): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\demet\OneDrive\Asztali gép\BME\grafika\hazi2\Programs\Skeleton\Skeleton\Skeleton.cpp(324,1): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\demet\OneDrive\Asztali gép\BME\grafika\hazi2\Programs\Skeleton\Skeleton\Skeleton.cpp(325,1): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\demet\OneDrive\Asztali gép\BME\grafika\hazi2\Programs\Skeleton\Skeleton\Skeleton.cpp(326,1): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\demet\OneDrive\Asztali gép\BME\grafika\hazi2\Programs\Skeleton\Skeleton\Skeleton.cpp(327,1): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\demet\OneDrive\Asztali gép\BME\grafika\hazi2\Programs\Skeleton\Skeleton\Skeleton.cpp(328,1): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\demet\OneDrive\Asztali gép\BME\grafika\hazi2\Programs\Skeleton\Skeleton\Skeleton.cpp(329,1): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\demet\OneDrive\Asztali gép\BME\grafika\hazi2\Programs\Skeleton\Skeleton\Skeleton.cpp(330,1): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\demet\OneDrive\Asztali gép\BME\grafika\hazi2\Programs\Skeleton\Skeleton\Skeleton.cpp(339,1): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\demet\OneDrive\Asztali gép\BME\grafika\hazi2\Programs\Skeleton\Skeleton\Skeleton.cpp(350,1): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\demet\OneDrive\Asztali gép\BME\grafika\hazi2\Programs\Skeleton\Skeleton\Skeleton.cpp(354,1): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\demet\OneDrive\Asztali gép\BME\grafika\hazi2\Programs\Skeleton\Skeleton\Skeleton.cpp(362,1): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\demet\OneDrive\Asztali gép\BME\grafika\hazi2\Programs\Skeleton\Skeleton\Skeleton.cpp(366,1): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\demet\OneDrive\Asztali gép\BME\grafika\hazi2\Programs\Skeleton\Skeleton\Skeleton.cpp(374,1): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\demet\OneDrive\Asztali gép\BME\grafika\hazi2\Programs\Skeleton\Skeleton\Skeleton.cpp(378,1): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\demet\OneDrive\Asztali gép\BME\grafika\hazi2\Programs\Skeleton\Skeleton\Skeleton.cpp(467,1): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\demet\OneDrive\Asztali gép\BME\grafika\hazi2\Programs\Skeleton\Skeleton\Skeleton.cpp(532,11): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\demet\OneDrive\Asztali gép\BME\grafika\hazi2\Programs\Skeleton\Skeleton\Skeleton.cpp(536,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\demet\OneDrive\Asztali gép\BME\grafika\hazi2\Programs\Skeleton\Skeleton\Skeleton.cpp(644,54): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\demet\OneDrive\Asztali gép\BME\grafika\hazi2\Programs\Skeleton\Skeleton\Skeleton.cpp(646,55): warning C4305: 'argument': truncation from 'double' to 'float'
+  Skeleton.vcxproj -> C:\Users\demet\OneDrive\Asztali gép\BME\grafika\hazi2\Programs\Skeleton\bin\Skeleton.exe
